@@ -8,5 +8,5 @@ b. Login page https://the-internet.herokuapp.com/login
 c. Secure page https://the-internet.herokuapp.com/secure
 - Sa contina mesajul de succes si verificare ca e displayed
 - Sa contina logout_btn si click pe el# BDD-POM
-# BDD-POM
-# BDD-POM
+https://www.linkedin.com/in/tanasa-stefan-50424a265/
+
